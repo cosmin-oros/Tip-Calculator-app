@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_service">Amazing (20%)</string>
+    <string name="good_service">Good (10%)</string>
+    <string name="ok_service">OK (5%)</string>
+    <string name="terrible_service">Terrible (0%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
